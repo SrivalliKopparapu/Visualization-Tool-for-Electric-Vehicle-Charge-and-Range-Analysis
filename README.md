@@ -1,1 +1,2 @@
 # Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
+This project presents a smart and interactive data visualization tool designed to analyze electric vehicle (EV) charging behavior and driving range. It processes EV telemetry data—such as battery percentage, charging time, and range—and transforms it into intuitive dashboards using tools like Tableau or Power BI. The goal is to support better energy planning, usage insights, and range prediction for EV users and researchers.
